@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg60"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="Logo v4norm2.svg">
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="203.38333"
+     inkscape:cy="112.04361"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="1341"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata57">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Lag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#afc6e9;stroke-width:0.681732"
+       id="path78"
+       cx="32.320938"
+       cy="27.396557"
+       rx="28.484251"
+       ry="24.976337" />
+    <g
+       aria-label="R"
+       transform="scale(1.0205422,0.97987129)"
+       id="text64"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.8379px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.721;stroke-miterlimit:4;stroke-dasharray:none;image-rendering:auto">
+      <path
+         d="m 26.644101,19.260913 q 1.379939,1.985422 3.421684,4.61857 l 2.703554,3.506171 q 0.718131,0.901184 0.957508,1.027913 0.239377,0.126729 0.492835,0.126729 h 0.366106 V 29.4274 q -1.168723,-0.09857 -2.041746,-0.09857 -0.802617,0 -1.68972,0.09857 l -4.984676,-6.730721 q -1.39402,-1.858693 -2.985174,-3.6329 l 0.14081,-0.478754 q 0.816699,0.0704 1.210967,0.0704 2.351528,0 3.675143,-1.210966 1.337695,-1.210967 1.337695,-3.238632 0,-1.81645 -1.12648,-2.830282 -1.126481,-1.027913 -3.252713,-1.027913 -1.478505,0 -2.971092,0.549159 -0.168972,2.23888 -0.168972,4.787542 v 6.801126 q 0,4.970595 0.239377,5.519754 0.239377,0.535078 1.548911,0.535078 h 1.098318 V 29.4274 q -2.337447,-0.09857 -3.872276,-0.09857 -1.210967,0 -4.379193,0.09857 v -0.887104 h 1.056075 q 1.210967,0 1.436263,-0.520997 0.225296,-0.535078 0.225296,-5.561997 v -6.772964 q 0,-4.365112 -0.267539,-4.886109 -0.253458,-0.520997 -1.689721,-0.520997 H 16.364967 V 9.3760472 q 2.619067,0.1126481 3.999005,0.1126481 0.929347,0 2.675391,-0.070405 2.027665,-0.070405 2.914769,-0.070405 2.436014,0 3.689223,0.5209972 1.267291,0.5069166 1.915017,1.4785056 0.661807,0.971589 0.661807,2.323366 0,1.985422 -1.436262,3.506171 -1.422182,1.520748 -4.139816,2.083988 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#ffffff;stroke-width:0.721;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path20" />
+    </g>
+    <g
+       aria-label="F"
+       transform="scale(1.0205422,0.97987129)"
+       id="text76"
+       style="font-style:normal;font-weight:normal;font-size:28.8379px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.720948">
+      <path
+         d="m 40.117169,39.000568 v 4.843866 q 0,2.886606 0.309782,3.379442 0.309782,0.478754 1.577072,0.478754 h 0.999752 v 0.873022 q -2.675391,-0.09857 -4.266545,-0.09857 -1.605235,0 -4.153897,0.09857 V 47.70263 h 1.126481 q 1.210966,0 1.478505,-0.464673 0.28162,-0.464674 0.28162,-3.393523 V 33.213275 q 0,-2.858445 -0.309782,-3.323118 -0.295701,-0.464673 -1.562991,-0.464673 h -1.013833 v -0.887103 q 2.337447,0.09857 4.210221,0.09857 l 8.096578,-0.154891 q 1.267291,0 2.393771,0.126729 -0.450592,1.506667 -0.492835,4.266545 h -0.901184 q -0.08449,-1.464425 -0.337944,-2.619068 -1.929098,-0.506916 -3.900439,-0.506916 -1.717883,0 -3.36536,0.183053 -0.168972,1.830531 -0.168972,3.323118 v 4.47776 q 0.84486,0.04224 1.661558,0.04224 2.112151,0 3.703305,-0.112648 0.535078,-0.02816 0.718131,-0.225297 0.197134,-0.211215 0.323863,-1.098318 l 0.14081,-1.070156 h 0.887104 q -0.126729,2.576824 -0.126729,3.309036 l 0.01408,3.323117 h -0.915266 v -1.084237 q 0,-1.295453 -0.492835,-1.577073 -0.492835,-0.28162 -3.77371,-0.28162 -0.901184,0 -2.140312,0.04224 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.8379px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.720948"
+         id="path23" />
+    </g>
+  </g>
+</svg>
